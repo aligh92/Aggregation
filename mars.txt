@@ -2,4 +2,8 @@ cold and dry, but everything is my favourite colour.
 The two mooons may be a problem for wolfman!
 But the Mummy will appreciate lack of humanity.
 Add some text.
+<<<<<<< HEAD
 Here is my contribution in our collaboration.
+=======
+New collaboration with Ali.
+>>>>>>> 3bb2060fec90dc2a092541a6283fa75098b4111b
